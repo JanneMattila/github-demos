@@ -53,3 +53,12 @@ janne_token_aaaabbbbxxx
 ```
 
 First one matches: `"janne_token_12345"`.
+
+Organization view:
+
+[Security](https://github.com/orgs/jannemattilaorgdemo/security)
+
+Secret scanning:
+
+[Google API Key](https://github.com/jannemattilaorgdemo/openhack-devops-nov-2021/security/secret-scanning/1)
+
