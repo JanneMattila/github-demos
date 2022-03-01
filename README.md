@@ -18,6 +18,10 @@ Collection of my GitHub demos
 - release
 - secrets
 
+Published action
+
+[Azure API Management Developer Portal Import and Export Actions](https://github.com/JanneMattila/azure-api-management-developer-portal-action)
+
 ## GitHub Advanced Security
 
 ### Code scanning
