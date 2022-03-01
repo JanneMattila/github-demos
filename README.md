@@ -2,6 +2,10 @@
 
 Collection of my GitHub demos
 
+## GitHub Projects
+
+[My Chess](https://github.com/users/JanneMattila/projects/5/views/1)
+
 ## GitHub Actions
 
 [Example workflows](https://github.com/JanneMattila/github-actions-demos/tree/main/.github/workflows)
@@ -18,9 +22,17 @@ Collection of my GitHub demos
 - release
 - secrets
 
+Actions
+
+[typescript](https://github.com/JanneMattila/typescript-action-demo)
+
 Published action
 
 [Azure API Management Developer Portal Import and Export Actions](https://github.com/JanneMattila/azure-api-management-developer-portal-action)
+
+## GitHub Packages
+
+[action for packages](https://github.com/JanneMattila/github-actions-for-packages)
 
 ## GitHub Advanced Security
 
