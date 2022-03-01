@@ -54,6 +54,8 @@ Pull request
 
 ### Secrets scanning
 
+See built-in [partners](https://docs.github.com/en/code-security/secret-scanning/secret-scanning-partners).
+
 `Janne Token`: 
 
 - Pattern: `janne_token_[0-9]{5}`
