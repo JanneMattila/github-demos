@@ -26,4 +26,30 @@ Collection of my GitHub demos
 
 [java](https://github.com/jannemattilaorgdemo/advanced-security-java-webgoat/security/code-scanning)
 
+### Dependabot
+
+Alerts
+
+[java](https://github.com/jannemattilaorgdemo/advanced-security-java-webgoat/security/dependabot)
+
+Pull request
+
+[java](https://github.com/jannemattilaorgdemo/advanced-security-java-webgoat/pulls)
+
 ### Secrets scanning
+
+`Janne Token`: 
+
+- Pattern: `janne_token_[0-9]{5}`
+- Before: `"`
+- After: `"`
+
+Test strings:
+
+```
+"janne_token_12345"
+janne_token_22
+janne_token_aaaabbbbxxx
+```
+
+First one matches: `"janne_token_12345"`.
