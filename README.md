@@ -1,4 +1,4 @@
-# GiHhub Demos
+# Github Demos
 
 Collection of my GitHub demos
 
@@ -78,5 +78,6 @@ Organization view:
 
 Secret scanning:
 
+[Janne Token](https://github.com/jannemattilaorgdemo/openhack-devops-nov-2021/security/secret-scanning/2)
 [Google API Key](https://github.com/jannemattilaorgdemo/openhack-devops-nov-2021/security/secret-scanning/1)
 
